@@ -1,5 +1,0 @@
-#Ignore notebook checkpoints 
-.ipynb_checkpoints
-
-#Ignore nbgrader log
-.nbgrader.log
