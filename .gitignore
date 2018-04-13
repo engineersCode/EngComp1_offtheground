@@ -1,3 +1,5 @@
+#Ignore notebook checkpoints 
+.ipynb_checkpoints
 
-.DS_Store
-modules/3_flyatchange/Projectile_Motion.mp4
+#Ignore nbgrader log
+.nbgrader.log
