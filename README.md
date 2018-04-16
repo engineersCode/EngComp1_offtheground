@@ -1,6 +1,6 @@
-# Engineering Computation Module 1
+# Engineering Computations Module 1
 
-_Engineering Computation_ is an online course made up of a set of stackable learning modules, so that it can be flexible for adoption in different situations.
+_Engineering Computations_ is an online course made up of a set of stackable learning modules, so that it can be flexible for adoption in different situations.
 It aims to develop computational skills for students in engineering, but it can also be used by students in other science majors.
 The course uses the Python programming language and the Jupyter open-source tools for interactive computing.
 
