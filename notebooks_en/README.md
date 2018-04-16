@@ -4,6 +4,8 @@ This course assumes no coding experience, so the first three lessons are focused
 
 ## Module 1: Get data off the ground
 
+Learn to interact with Python and handle data with Python.
+
 ### [Lesson 1](http://go.gwu.edu/engcomp1lesson1): Interacting with Python.
 
 Background: What is Python? Idea of interpreted vs. compiled language. Why use Python? It is a general-purpose and high-productivity language.
