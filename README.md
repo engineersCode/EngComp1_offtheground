@@ -6,6 +6,8 @@ This course assumes no coding experience, so the first three lessons are focused
 
 Learn to interact with Python and handle data with Python.
 
+* **Get a PDF version to print**: _Engineering Computations Module 1: Get data off the ground._ figshare. https://doi.org/10.6084/m9.figshare.5673454.v1
+
 ### [Lesson 1](http://go.gwu.edu/engcomp1lesson1): Interacting with Python.
 
 Background: What is Python? Idea of interpreted vs. compiled language. Why use Python? It is a general-purpose and high-productivity language.
@@ -30,9 +32,6 @@ Two of the most important libraries for scientific computing with Python: **NumP
 ### [Lesson 5](http://go.gwu.edu/engcomp1lesson5): Linear regression with real data
 
 A full worked example using real data of earth temperature over time. Step 1: reading data from a file. Step 2: plotting the data; making beautiful plots. Step 3: least-squares linear regression. Step 4: applying linear regression using NumPy. Split regression.
-
-
-* **Get a PDF version to print**: _Engineering Computations Module 1: Get data off the ground._ figshare. https://doi.org/10.6084/m9.figshare.5673454.v1
 
 ## Copyright and License
 
