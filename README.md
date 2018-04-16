@@ -6,6 +6,11 @@ This course assumes no coding experience, so the first three lessons are focused
 
 Learn to interact with Python and handle data with Python.
 
+Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
+Then navigate to `modules`, select one of the course modules, and lauch any notebook.
+
+ [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp1_offtheground/master)
+
 * **Get a PDF version to print**: _Engineering Computations Module 1: Get data off the ground._ figshare. https://doi.org/10.6084/m9.figshare.5673454.v1
 
 ### [Lesson 1](http://go.gwu.edu/engcomp1lesson1): Interacting with Python.
