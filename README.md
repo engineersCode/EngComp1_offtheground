@@ -1,10 +1,14 @@
-# Engineering Computations
+# Engineering Computations Module 1
 
-This course assumes no coding experience, so the first three lessons are focused on creating a foundation with Python programming constructs using essentially no mathematics. The fourth lesson introduces the basic data structure in scientific computing: _arrays_. The final lesson is a worked example of linear regression with real data.
+_Engineering Computations_ is an online course made up of a set of stackable learning modules, so that it can be flexible for adoption in different situations.
+It aims to develop computational skills for students in engineering, but it can also be used by students in other science majors.
+The course uses the Python programming language and the Jupyter open-source tools for interactive computing.
+
+This first module assumes no coding experience, so the first three lessons are focused on creating a foundation with Python programming constructs using essentially no mathematics. The fourth lesson introduces the basic data structure in scientific computing: _arrays_. The final lesson is a worked example of linear regression with real data.
 
 ## Module 1: Get data off the ground
 
-Learn to interact with Python and handle data with Python.
+_Learn to interact with Python and handle data with Python._
 
 Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
 Then navigate to `modules`, select one of the course modules, and lauch any notebook.
