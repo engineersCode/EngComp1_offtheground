@@ -29,6 +29,9 @@ Two of the most important libraries for scientific computing with Python: **NumP
 
 A full worked example using real data of earth temperature over time. Step 1: reading data from a file. Step 2: plotting the data; making beautiful plots. Step 3: least-squares linear regression. Step 4: applying linear regression using NumPy. Split regression.
 
+
+* **Get a PDF version to print**: _Engineering Computations Module 1: Get data off the ground._ figshare. https://doi.org/10.6084/m9.figshare.5673454.v1
+
 ## Copyright and License
 
 (c) 2017 Lorena A. Barba, Natalia C. Clementi. All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We are happy if you re-use the content in any way!
