@@ -11,7 +11,7 @@ This first module assumes no coding experience, so the first three lessons are f
 _Learn to interact with Python and handle data with Python._
 
 > Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
-> Then navigate to `modules`, select one of the course modules, and lauch any notebook.
+> Select the folder `notebooks_en` to access the five lessons of this course as fully executable Jupyter notebooks.
 >
 > [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp1_offtheground/master)
 
