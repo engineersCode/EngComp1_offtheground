@@ -1,4 +1,4 @@
-# Cálculos Computacionales en Ingeniería - Modulo 1 
+# Cálculos Computacionales en Ingeniería - Módulo 1 
 
 _Cálculos Computacionales en Ingeniería_ es un curso en línea realizado con módulos de aprendizaje intercambiables, proporcionando flexibilidad para adaptarlo a diversas situaciones. Apunta a desarrollar habilidades computacionales para estudiantes en ingeniería, pero también puede ser usado por estudiantes de otras disciplinas científicas. El curso utiliza el lenguaje de programación Python y las herramientas de código abierto de Jupyter para computación interactiva.
 
@@ -45,4 +45,4 @@ Un ejemplo completo que usa datos reales de la temperatura de la tierra a lo lar
 
 (c) 2017 Lorena A. Barba, Natalia C. Clementi. Todo el contenido está bajo Atribución de Creative Commons [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), y todo [el código está bajo la cláusula BSD-3](https://github.com/engineersCode/EngComp/blob/master/LICENCE). ¡Estaremos felices si reutilizas el contenido de alguna manera!
 
-[![Licencia](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Licencia: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) 
+[![Licencia](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Licencia: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Licencia: CC BY 4.0](https://img.shields.io/badge/Original-English-lightgreen.svg)](https://github.com/engineersCode/EngComp1_offtheground/) 
