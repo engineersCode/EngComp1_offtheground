@@ -1,11 +1,21 @@
-[![Generic badge](https://img.shields.io/badge/<LANGUAGE>-<INGLES>-<GREEN>.svg)](https://github.com/engineersCode/EngComp1_offtheground/blob/master/README.md) 
-[![Generic badge](https://img.shields.io/badge/<LANGUAGE>-<ESPAÑOL>-<GREEN>.svg)](https://github.com/engineersCode/EngComp1_offtheground/blob/translation_es/LEEME.md) 
+# Cálculos Computacionales en Ingeniería - Modulo 1 
 
-# Computación de ingeniería
+_Cálculos Computacionales en Ingeniería_ es un curso en línea realizado con módulos de aprendizaje intercambiables, proporcionando flexibilidad para adaptarlo a diversas situaciones. Apunta a desarrollar habilidades computacionales para estudiantes en ingeniería, pero también puede ser usado por estudiantes de otras disciplinas científicas. El curso utiliza el lenguaje de programación Python y las herramientas de código abierto de Jupyter para computación interactiva.
 
-Este curso no asume ninguna experiencia previa en programación, por lo que las tres primeras lecciones se centran en crear una base de conocimientos de programación de Python sin hacer uso de Matemáticas. La cuarta lección introduce la estructura de datos básicos en la informática científica: _arrays_. La última lección es un ejemplo de regresión lineal con datos reales.
+Este primer módulo no asume ninguna experiencia previa en programación, por lo que las tres primeras lecciones se centran en crear una base de conocimientos de programación de Python sin hacer uso de Matemáticas. La cuarta lección introduce la estructura de datos básicos en la informática científica: _arrays_. La última lección es un ejemplo de regresión lineal con datos reales.
 
 ## Módulo 1: Obtener datos
+
+_Aprender a interactuar con Python y manejar datos con Python._
+
+> Obten una sesión interactiva en [MyBinder.org](https://mybinder.org/) con el material del curso utilizando el botón inferior.
+> Selecciona la carpeta `notebooks_es` para acceder a las 5 lecciones de este curso como notebooks de Jupyter completamente ejecutables.
+>
+> [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp1_offtheground/master)
+
+* **Puedes unirte al curso [open online course](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about)** (en inglés) en nuestra plataforma _Open edX_.
+
+* **Obtener una versión PDF para imprimir (en inglés) **: _Engineering Computations Module 1: Get data off the ground._ figshare. https://doi.org/10.6084/m9.figshare.5673454.v1
 
 ### [Lección 1](https://github.com/engineersCode/EngComp1_offtheground/blob/translation_es/notebooks_es/1_Interactuando_con_Python.ipynb): Interactuando con Python.
 
@@ -15,7 +25,7 @@ Utilizando Python como una calculadora.
 Nuevos conceptos: funciones, strings, variables, asignación, tipo, variables especiales (`True`,` False`, `None`).
 Operaciones matemáticas, operaciones lógicas. Lectura de mensajes de error.
 
-### [Lección 2](https://github.com/engineersCode/EngComp1_offtheground/blob/translation_es/notebooks_es/2_Strings_y_listas_en_Jupyter.ipynb): Juegando con los datos en Jupyter
+### [Lección 2](https://github.com/engineersCode/EngComp1_offtheground/blob/translation_es/notebooks_es/2_Strings_y_listas_en_Jupyter.ipynb): Jugando con los datos en Jupyter
 
 ¿Qué es Jupyter? Trabajando con Jupyter. Jugando con cadenas de texto en Python: asignación, indexación, subdivisión. Métodos de cadenas de texto: count, find, index, strip, startswith, split. Juegando con listas de Python: asignación, listas anidadas, indexación, segmentación. Métodos de listas: agregar, indexar. Pertenencia a una lista. Iteración con declaraciones for. Condicionales.
 
@@ -35,4 +45,4 @@ Un ejemplo completo que usa datos reales de la temperatura de la tierra a lo lar
 
 (c) 2017 Lorena A. Barba, Natalia C. Clementi. Todo el contenido está bajo Atribución de Creative Commons [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), y todo [el código está bajo la cláusula BSD-3](https://github.com/engineersCode/EngComp/blob/master/LICENCE). ¡Estaremos felices si reutilizas el contenido de alguna manera!
 
-[![Licencia](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Licencia: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Licencia](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Licencia: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) 
