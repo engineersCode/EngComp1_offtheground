@@ -1,12 +1,12 @@
 # Engineering Computations Module 1
 
-_Engineering Computations_ is an online course made up of a set of stackable learning modules, so that it can be flexible for adoption in different situations.
+_Engineering Computations_ is a collection of stackable learning modules, flexible for adoption in different situations.
 It aims to develop computational skills for students in engineering, but it can also be used by students in other science majors.
 The course uses the Python programming language and the Jupyter open-source tools for interactive computing.
 
 This first module assumes no coding experience, so the first three lessons are focused on creating a foundation with Python programming constructs using essentially no mathematics. The fourth lesson introduces the basic data structure in scientific computing: _arrays_. The final lesson is a worked example of linear regression with real data.
 
-## Module 1: Get data off the ground
+## Module 1: Get data off the ground with Python
 
 _Learn to interact with Python and handle data with Python._
 
@@ -15,7 +15,7 @@ _Learn to interact with Python and handle data with Python._
 >
 > [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp1_offtheground/master)
 
-* **Join the [open online course](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about)** in our _Open edX_ platform.
+* **Join the [open online course](http://go.gwu.edu/engcomp1)** in our _Open edX_ platform.
 
 * **Get a PDF version to print**: _Engineering Computations Module 1: Get data off the ground._ figshare. https://doi.org/10.6084/m9.figshare.5673454.v1
 
