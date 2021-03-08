@@ -13,7 +13,7 @@ _Learn to interact with Python and handle data with Python._
 > Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
 > Select the folder `notebooks_en` to access the five lessons of this course as fully executable Jupyter notebooks.
 >
-> [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp1_offtheground/master)
+> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp1_offtheground/master)
 
 * **Join the [open online course](http://go.gwu.edu/engcomp1)** in our _Open edX_ platform.
 
