@@ -1,0 +1,10 @@
+name: EngComp1
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - ipython=7.16.1
+  - matplotlib=3.3.1
+  - numpy=1.19.1
+  - urllib3=1.26.6
