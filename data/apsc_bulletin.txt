@@ -1,0 +1,57 @@
+APSC 1001. Introduction to Engineering for Undeclared Majors. 1 Credit.
+
+As an introduction to disciplines within SEAS, potential solutions to problems are presented by practitioners of civil and environmental engineering; computer science; electrical, computer, and biomedical engineering; mechanical and aerospace engineering; and systems engineering.
+
+APSC 1099. Continuous Research. 1 Credit.
+
+APSC 2057. Analytical Mechanics I. 3 Credits.
+
+First half of a one-year sequence. Concepts of statics: force systems, conditions of force and moment equilibrium, simple structures, distributed forces, centroids, internal forces, friction, moments of inertia. Prerequisites: PHYS 1021.
+
+APSC 2058. Analytical Mechanics II. 3 Credits.
+
+Second half of a one-year sequence. Concepts of dynamics: kinematics of particles, velocity and acceleration, translating and rotating reference frames, particle dynamics, motion under central and electromagnetic force, effect of Earth’s rotation, vibrations, work, kinetic and potential energy, dynamics of systems of particles. Prerequisite: APSC 2057. (Fall and spring, Every year)
+
+APSC 2113. Engineering Analysis I. 3 Credits.
+
+Analytical methods for the solution of problems in engineering, the physical sciences, and applied mathematics: applications of ordinary differential equations, matrices and determinants, eigenvalues and eigenvectors, systems of ordinary linear differential equations, Bessel and Legendre functions. Prerequisite or concurrent registration: MATH 2233.
+
+APSC 2114. Engineering Analysis II. 3 Credits.
+
+Analytical methods for the solution of problems in engineering, the physical sciences, and applied mathematics: complex variables, Fourier series and integral, frequency filters, Laplace transforms, inversion and Duhamel integrals; partial differential equations. Prerequisite: MATH 2233.
+
+APSC 3098. Variable Topics. 1-36 Credits.
+
+APSC 3115. Engineering Analysis III. 3 Credits.
+
+Analytical methods for the solution of problems in engineering using concepts from probability and statistics: probability modeling, random variables and their distributions, mathematical expectation, sampling, point and confidence interval estimation, hypothesis testing, correlation, regression, and engineering applications. (Fall, spring, And summer)
+
+APSC 3116. Engineering Analysis IV. 3 Credits.
+
+Analytical methods using advanced concepts from probability and statistics: multivariate distributions, expectation, generating functions, parametric families of distributions, sampling and sufficient statistics, estimation, hypothesis testing, and engineering applications. May be taken for graduate credit.    Prerequisites: APSC 3115 and MATH 2233. (Fall, Every year)
+
+APSC 5099. Variable Topics. 1-99 Credits.
+
+APSC 6211. Analytical Methods in Engineering I. 3 Credits.
+
+Engineering applications of the theory of complex variables: contour integration, conformal mapping, inversion integral, and boundary–value problems. Prerequisite: approval of department.
+
+APSC 6212. Analytical Methods in Engineering II. 3 Credits.
+
+Algebraic methods appropriate to the solution of engineering computational problems: linear vector spaces, matrices, systems of linear equations, eigenvalues and eigenvectors, quadratic forms. Permission of the department required prior to enrollment. (Spring, Every year)
+
+APSC 6213. Analytical Methods in Engineering III. 3 Credits.
+
+Analytical techniques for solution of boundary–initial-value problems in engineering: wave propagation, diffusion processes, and potential distributions. Permission of the department required prior to enrollment. (Spring, Every year)
+
+APSC 6214. Analytical Methods in Engineering IV. 3 Credits.
+
+Introduction to variational methods in engineering: Ritz and Galerkin approximation methods of boundary–value problems, aspects of linear integral equations arising from engineering analysis. Permission of the department required prior to enrollment. (Spring, Every year)
+
+APSC 6215. Analytical Methods in Engineering V. 3 Credits.
+
+Advanced methods of solution of boundary–initial-value problems in engineering: characteristics, wave propagation, and Green’s functions. Prerequisite: APSC 6213.
+
+APSC 6216. Special Topics in Engineering Analysis. 3 Credits.
+
+Selected topics, such as perturbation techniques applied to approximate solution of nonlinear boundary and initial-value problems in engineering; application of singular integral equations in problems of mechanics. Permission of the department required prior to enrollment. (Fall and spring, Every year)
