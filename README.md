@@ -15,8 +15,6 @@ _Learn to interact with Python and handle data with Python._
 >
 > [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp1_offtheground/master)
 
-* **Join the [open online course](http://go.gwu.edu/engcomp1)** in our _Open edX_ platform.
-
 * **Get a PDF version to print**: _Engineering Computations Module 1: Get data off the ground._ figshare. https://doi.org/10.6084/m9.figshare.5673454.v1
 
 ### [Lesson 1](http://go.gwu.edu/engcomp1lesson1): Interacting with Python.
